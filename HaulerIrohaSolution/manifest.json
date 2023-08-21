@@ -1,9 +1,9 @@
 {
-    "name": "IrohaHauler",
-    "version_number": "1.0.0",
-    "website_url": "",
-    "description": "Adds Iroha from Blue Archive as a skin for Hauler. With voice!",
-    "dependencies": [
-        "Moffein-Potmobile-1.4.0"
-    ]
+  "name": "IrohaHauler",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DestroyedClone/RoR2HaulerIrohaSkin/",
+  "description": "Adds Iroha from Blue Archive as a skin for Hauler. With voice!",
+  "dependencies": [
+    "Moffein-Potmobile-1.4.0"
+  ]
 }
