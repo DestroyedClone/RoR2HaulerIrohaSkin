@@ -2,7 +2,7 @@
 
 Adds Iroha from Blue Archive as a skin for Hauler. With voice!
 
-![](https://raw.githubusercontent.com/DestroyedClone/RoR2HaulerIrohaSkin/master/HaulerIrohaSolution/irohahaulerpreview.webp)
+![](https://i.imgur.com/nBCvoNp.jpg)
 
 [<img src="https://cdn.donmai.us/sample/ae/b6/__iroha_blue_archive_drawn_by_doremi__sample-aeb6ef9a695f37732bbd8d803282f88c.jpg">](https://cdn.donmai.us/original/ae/b6/__iroha_blue_archive_drawn_by_doremi__aeb6ef9a695f37732bbd8d803282f88c.jpg)
 
